@@ -4,12 +4,12 @@ Hi 👋 My name is José Barbosa
 I'm Junior Developer
 --------------------
 
-My full name is Jose Duarte Rodrigues Barbosa, I am now starting my career as a developer, despite not having much experience in the area, I am always willing to take on new challenges and learning, despite being shy I like to socialize whenever possible, I consider myself an honest, hardworking, and responsible person.
+Thank you for stopping by. My name is José Barbosa, and I am a Junior Developer who is always eager to take on new challenges and continue learning. I have a special interest in Web development, Mobile development, and technologies such as React.js, Laravel, and Flutter.
 
 * 🌍  I'm based in Portugal
-* 🖥️  See my portfolio at [My Portfolio](http://duarteebarbosaa.github.io/portfolio/)
+* 🖥️  See my portfolio at [My Portfolio](https://portfolio-react-js-eight.vercel.app/)
 * ✉️  You can contact me at [duarteebarbosaa@gmail.com](mailto:duarteebarbosaa@gmail.com)
-* 🧠  I'm learning FilamentPHP, Laravel, Livewire
+* 🧠  I'm learning Javascript, React, FilamentPHP, Laravel, Livewire
 
 ### Skills
 
