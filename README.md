@@ -5,9 +5,7 @@ I'm a Junior Developer with a passion for creating innovative solutions through 
 
 Thank you for stopping by! I’m José Barbosa, and I’m driven by the challenge of solving real-world problems using software development. My journey in programming has allowed me to explore various domains, from web and mobile applications to simulation systems and data-driven tools. I thrive on learning new technologies, applying best practices, and delivering high-quality solutions.
 
-* 🌍  I'm based in Portugal  
-* 🖥️  See my portfolio at [My Portfolio](https://portfolio-react-js-eight.vercel.app/)   
-* ✉️  You can contact me at [duarteebarbosaa@gmail.com](mailto:duarteebarbosaa@gmail.com)  
+* 🌍  I'm based in Portugal
 * 🧠  I'm currently diving deeper into advanced topics like algorithm design, statistical analysis, and scalable system architecture.
 
 ---
