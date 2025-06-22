@@ -12,7 +12,7 @@ Thank you for stopping by! I’m José Barbosa, and I’m driven by the challeng
 
 ### Skills  
 
-<p align="left">
+<p align="center">
   <a href="https://www.java.com/"  target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"  width="36" height="36" alt="Java" />
   </a>
@@ -46,7 +46,7 @@ Some of my key strengths include:
 
 ### Socials  
 
-<p align="left">
+<p align="center">
   <a href="https://discord.com/users/386845066657792001"  target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"  width="32" height="32" alt="Discord" />
   </a>
