@@ -1,5 +1,4 @@
 # Hi 👋 My name is José Barbosa  
-====================================================================================================================================
 
 I'm a Junior Developer with a passion for creating innovative solutions through technology.  
 --------------------
