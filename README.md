@@ -18,9 +18,6 @@ Thank you for stopping by! I’m José Barbosa, and I’m driven by the challeng
   <a href="https://www.java.com/"  target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"  width="36" height="36" alt="Java" />
   </a>
-  <a href="https://openjfx.io/"  target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javafx-colored.svg"  width="36" height="36" alt="JavaFX" />
-  </a>
   <a href="https://git-scm.com/"  target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"  width="36" height="36" alt="Git" />
   </a>
@@ -32,9 +29,6 @@ Thank you for stopping by! I’m José Barbosa, and I’m driven by the challeng
   </a>
   <a href="https://www.mysql.com/"  target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"  width="36" height="36" alt="MySQL" />
-  </a>
-  <a href="https://junit.org/junit5/"  target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/junit-colored.svg"  width="36" height="36" alt="JUnit" />
   </a>
 </p>
 
