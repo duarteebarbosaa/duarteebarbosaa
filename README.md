@@ -75,7 +75,7 @@ Some of my key strengths include:
 ### What I’m Learning  
 
 Currently, I’m expanding my knowledge in the following areas:
-- Advanced Java and JavaFX for desktop application development.  
+- Advanced Java for desktop application development.  
 - Graph algorithms and optimization techniques for network simulations.  
 - Statistical analysis and data modeling using Python and its ecosystem.  
 - Best practices for designing scalable and maintainable software architectures.  
