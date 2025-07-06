@@ -1,81 +1,101 @@
-# Hi 👋 My name is José Barbosa  
+# Hello 👋 I'm José Barbosa  
+### Junior Developer | Portugal 
 
-I'm a Junior Developer with a passion for creating innovative solutions through technology.  
---------------------
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=duarteebarbosaa&style=flat-square&color=blue" alt="Profile views"/>
+  <a href="https://github.com/duarteebarbosaa?tab=followers">
+    <img src="https://img.shields.io/github/followers/duarteebarbosaa?label=Follow&style=social" alt="GitHub followers"/>
+  </a>
+</p>
 
-Thank you for stopping by! I’m José Barbosa, and I’m driven by the challenge of solving real-world problems using software development. My journey in programming has allowed me to explore various domains, from web and mobile applications to simulation systems and data-driven tools. I thrive on learning new technologies, applying best practices, and delivering high-quality solutions.
-
-* 🌍  I'm based in Portugal
-* 🧠  I'm currently diving deeper into advanced topics like algorithm design, statistical analysis, and scalable system architecture.
+> *"Transforming complex problems into elegant solutions through code"*
 
 ---
 
-### Skills  
+### 🚀 About Me
 
-<p align="center">
-  <a href="https://www.java.com/"  target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"  width="36" height="36" alt="Java" />
+I'm a passionate developer focused on creating innovative solutions through technology. My journey includes:
+- Developing simulation systems and data-driven tools
+- Applying best practices like OOP, TDD, and agile methodologies
+- Crafting data visualizations with Matplotlib, Seaborn, and Gnuplot
+- Designing efficient algorithms for system optimization
+
+---
+
+### 🛠️ Technical Skills
+
+#### Languages & Frameworks
+<p align="left">
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   </a>
-  <a href="https://git-scm.com/"  target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"  width="36" height="36" alt="Git" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"  width="36" height="36" alt="JavaScript" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
-  <a href="https://www.python.org/"  target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"  width="36" height="36" alt="Python" />
+</p>
+
+#### Tools & Technologies
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </a>
-  <a href="https://www.mysql.com/"  target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"  width="36" height="36" alt="MySQL" />
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  </a>
+  <a href="https://junit.org/junit5/" target="_blank">
+    <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit">
   </a>
 </p>
 
 ---
 
-### About Me  
-
-As a developer, I focus on building robust, efficient, and maintainable software solutions. My approach combines strong problem-solving skills with a deep understanding of Object-Oriented Programming (OOP), Test-Driven Development (TDD), and agile methodologies. I’m experienced in working collaboratively in team environments, leveraging tools like GitHub, Scrum boards, and project management frameworks to deliver results effectively.
-
-Some of my key strengths include:
-- **Algorithm Design**: Developing efficient algorithms to solve complex problems, including graph-based and optimization challenges.
-- **Data Visualization**: Creating insightful visualizations and reports using libraries like Matplotlib, Seaborn, and Gnuplot.
-- **System Simulation**: Building simulation systems that model real-world scenarios and provide actionable insights.
-- **Software Architecture**: Designing scalable and maintainable systems using OOP principles and clean coding practices.
+### 📚 Currently Learning
+- Advanced algorithms and optimization techniques
+- Scalable system architecture
+- Statistical analysis with Python
+- Desktop application development with Java
 
 ---
 
-### Socials  
+### 🏆 Key Achievements
+- Implemented agile methodologies (SCRUM)
+- Practiced Test-Driven Development (TDD)
+- Analyzed large datasets for actionable insights
+- Maintained high test coverage (JaCoCo)
 
-<p align="center">
-  <a href="https://discord.com/users/386845066657792001"  target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"  width="32" height="32" alt="Discord" />
+---
+
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/duarte-barbosa-0a806519b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/duarteebarbosaa"  target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"  width="32" height="32" alt="GitHub" />
+  <a href="http://www.instagram.com/_duartebarbosa_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="http://www.instagram.com/_duartebarbosa_" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"  width="32" height="32" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/duarte-barbosa-0a806519b/"  target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"  width="32" height="32" alt="LinkedIn" />
+  <a href="https://discord.com/users/386845066657792001" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
 
 ---
 
-### Achievements and Certifications  
+### 💻 Coder's Creed
+<div align="center" style="font-style: italic; margin: 20px 0; padding: 15px; background: #0d1117; border-radius: 10px; border-left: 3px solid #58a6ff; font-family: 'Courier New', monospace;">
+  
+> *Vincit qui bugs obscuros edomuit —*  
+> *sed silentium profundum in terminalis,*  
+> *inter crash fatales et infinitos loop animae,*  
+> *cor in debug rota cum coffee laceratur.*  
+> *Abyssus stacktrace invocat.*  
+>  
+> *(He conquers who masters dark bugs —*  
+> *but deep silence in terminals,*  
+> *between fatal crashes and infinite loops of the soul,*  
+> *the heart is torn on the debug wheel with coffee.*  
+> *The stacktrace abyss calls.)*
 
-- **Agile Development**: Experienced in managing projects using SCRUM methodologies and iterative development cycles.  
-- **Test-Driven Development (TDD)**: Proficient in writing unit tests and ensuring high code coverage using JUnit 5 and JaCoCo.  
-- **Data Analysis**: Skilled in analyzing large datasets and presenting findings through clear visualizations and reports.  
-- **Code Quality**: Adheres to industry-standard coding practices, including CamelCase naming conventions and comprehensive documentation using Javadoc.  
-
----
-
-### What I’m Learning  
-
-Currently, I’m expanding my knowledge in the following areas:
-- Advanced Java for desktop application development.  
-- Graph algorithms and optimization techniques for network simulations.  
-- Statistical analysis and data modeling using Python and its ecosystem.  
-- Best practices for designing scalable and maintainable software architectures.  
+</div>
