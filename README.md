@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/duarteebarbosaa/duarteebarbosaa/output/snake.svg" alt="Snake animation" />
+
+###
+
 # Hello 👋 I'm José Barbosa  
 ### Junior Developer | Portugal 
 
