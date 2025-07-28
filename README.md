@@ -81,13 +81,6 @@ I'm a passionate developer focused on creating innovative solutions through tech
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=duarteebarbosaa&theme=github-dark-blue&hide_border=true&border_radius=6&mode=weekly" alt="GitHub Streak" />
-</div>
-
----
-
 ## 💻 Coder's Creed
 <div align="center" style="font-style: italic; margin: 20px 0; padding: 20px; background: #161b22; border-radius: 10px; border-left: 4px solid #58a6ff; font-family: 'Courier New', monospace; max-width: 800px; margin-left: auto; margin-right: auto;">
   
